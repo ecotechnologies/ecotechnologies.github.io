@@ -1,8 +1,3 @@
----
-title: How the site was built
-layout: default
----
-
 This site was built using [Jekyll](http://jekyllrb.com/docs/installation/) on a computer running Ubuntu and hosted on the open source software development website [GitHub](https://github.com/).
 
 A tutorial by [Andrew Munsell](https://learn.andrewmunsell.com/learn/jekyll-by-example/tutorial?utm_source=blog&utm_medium=redirect&utm_campaign=Blog%20Redirect)

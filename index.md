@@ -2,6 +2,8 @@
 title: Ecotechnologies
 layout: default
 ---
+ 
+# Ecotechnologies
 
 This website was set up by a group of friends to share information about technology.
 
@@ -25,5 +27,6 @@ Based on these ideal, this website is built in a way that is simple, scalable, m
 Without going into the details of it, all the code underlying this site is available online.
 Please fork the project, or, even better, request to join the ecotechnologies team on GitHub 
 if you are interested in getting involved.  
+
 
 

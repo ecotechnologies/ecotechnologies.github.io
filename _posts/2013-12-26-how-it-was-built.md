@@ -1,6 +1,8 @@
 ---
 title: How the site was built
 layout: default
+categories:
+  - article
 ---
 
 This site was built using [Jekyll](http://jekyllrb.com/docs/installation/) on a computer running Ubuntu and hosted on the open source software development website [GitHub](https://github.com/).

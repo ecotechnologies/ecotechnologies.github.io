@@ -1,6 +1,7 @@
 ---
 published: true
 layout: default
+title: Using prose
 tags: 
   - tutorial
 category: video

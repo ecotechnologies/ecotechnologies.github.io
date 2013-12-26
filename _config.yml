@@ -8,3 +8,21 @@ paginate: 10
 markdown: rdiscount
 permalink: pretty
 pygments: true
+
+prose:
+  metadata:
+      - name: "layout"
+        field:
+          element: "text"
+          value: "default"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Software"
+              value: "Pedal power"
+            - name: "Review"
+              value: "Article etc"
+   

@@ -10,6 +10,8 @@ permalink: pretty
 pygments: true
 
 prose:
+  siteurl: "http://blog.weinberg.me"
+  media: "images"
   metadata:
     _posts:
       - name: "layout"

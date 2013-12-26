@@ -19,11 +19,11 @@ prose:
           label: "layout"
           element: "text"
           value: "default"
-      - name: "tags"
+      - name: "title"
         field:
           element: "text"
-          label: "Add Tags"
-          value: "Pedal power"
+          label: "Title of the post"
+          value: "My title"
       - name: "published"
         field:
           label: "Published"

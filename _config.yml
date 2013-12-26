@@ -31,8 +31,9 @@ prose:
           value: "true"
       - name: "category"
         field:
+          label: "category, e.g. article"
           element: "text"
-          value: "articles"
+          value: "article"
       - name: "tags"
         field:
           element: "multiselect"

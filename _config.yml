@@ -1,0 +1,11 @@
+name: "ecotechnologies.io"
+description: "Technologies to help you live in harmony with nature"
+
+# url: "http://ecotechnologies.github.io"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
+

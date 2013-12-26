@@ -14,16 +14,19 @@ prose:
     _posts:
       - name: "layout"
         field:
+          label: "layout"
           element: "text"
           value: "default"
       - name: "tags"
         field:
-          element: "multiselect"
+          element: "text"
           label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Software"
-              value: "Pedal power"
-            - name: "Review"
-              value: "Article etc"
+          value: "Pedal power"
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+          
+            
    

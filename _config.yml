@@ -10,7 +10,7 @@ permalink: pretty
 pygments: true
 
 prose:
-  siteurl: "http://blog.weinberg.me"
+  siteurl: "http://ecotechnologies.github.io/"
   media: "images"
   metadata:
     _posts:
@@ -29,6 +29,16 @@ prose:
           label: "Published"
           element: "checkbox"
           value: "true"
+      - name: "category"
+        field:
+          element: "text"
+          value: "articles"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          alterable: true
           
             
    

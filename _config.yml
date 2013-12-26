@@ -11,6 +11,7 @@ pygments: true
 
 prose:
   metadata:
+    _posts:
       - name: "layout"
         field:
           element: "text"

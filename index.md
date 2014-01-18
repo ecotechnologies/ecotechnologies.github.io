@@ -19,7 +19,7 @@ in solutions that meet the following four criteria, set out by John Michael Gree
 Ecotechnologies must be:
 
  - **Simple** so they are resilient and can be fixed when they break 
- - **Scalable**, with the potential of being replicated around the world
+ - **Scalable** with the potential of being replicated around the world
  - **Modular** such that their component parts are multi-purpose
  - **Open source** so other people can build on the work of others
 

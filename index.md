@@ -28,5 +28,10 @@ Without going into the details of it, all the code underlying this site is avail
 Please fork the project, or, even better, request to join the ecotechnologies team on GitHub 
 if you are interested in getting involved.  
 
+# Most recent posts
 
-
+{% for post in site.posts limit:2 %}
+                <h2><a href="{{ post.url }}">{{ post.title }} </a></h2>
+                <h4>Article of {{ post.content | number_of_words}} words, published {{ post.date | date: "%-d %B %Y" }}</h4>
+        <p>{{ post.excerpt }}</p>
+  {% endfor %}

@@ -1,6 +1,6 @@
 ---
 published: true
-title: "bike-trailer-carrying-capacity"
+title: "Bicycle trailers in the developing world"
 layout: default
 category: video
 tags: 
@@ -8,8 +8,7 @@ tags:
   - goods
 ---
 
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Rwanda:
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/KLBhsifiW_E" frameborder="0" allowfullscreen></iframe>

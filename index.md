@@ -28,7 +28,7 @@ Without going into the details of it, all the code underlying this site is avail
 Please fork the project, or, even better, request to join the ecotechnologies team on GitHub 
 if you are interested in getting involved.  
 
-# Most recent posts
+# 5 most recent posts
 
 {% for post in site.posts limit:2 %}
                 <h2><a href="{{ post.url }}">{{ post.title }} </a></h2>

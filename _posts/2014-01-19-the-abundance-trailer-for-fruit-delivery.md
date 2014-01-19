@@ -28,7 +28,7 @@ The photo above shows the trailer used for the purpose it was designed: carrying
 
 ## Making the trailer
 
-The following set of photos demonstrate the build process of the Abundance trailer in action, taken from Flickr. 
+The following set of photos demonstrate the build process of the Abundance trailer in action, taken from Flickr. (Press the backward, left <- arrow to see the images in the correct order.)
 
 <iframe src="https://www.flickr.com/photos/97888609@N02/10509991073/player/11d1800a82" height="332" width="500"  frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 

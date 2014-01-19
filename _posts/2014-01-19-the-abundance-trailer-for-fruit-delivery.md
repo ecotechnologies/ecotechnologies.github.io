@@ -13,6 +13,7 @@ tags:
 
 [Abundance](http://growsheffield.com/abundance/) is an idea that solves two problems at once: the poor quality of many people's diets, especially the disadvantaged in society, and the common sight of good fruit going to waste, left to rot in busy urban areas. 
 Abundance is also the nickname given to a trailer built for the Abundance project for transporting fruit, and used for inspiration by [Engineers Without Borders Sheffield](https://ewb.shef.ac.uk/). This short aricle shows the Abundance trailer in action, provides some information on its design and build, and links to additional resources, including a CAD file of the finished product. 
+
 ![The trailer's core dimensions](http://ecotechnologies.github.com/images/Abundance-trailer3.png)
 
 ## The Abundance trailer in action

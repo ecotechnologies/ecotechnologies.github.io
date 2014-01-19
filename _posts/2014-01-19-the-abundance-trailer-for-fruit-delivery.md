@@ -1,6 +1,6 @@
 ---
 published: true
-title: ""
+title: "Abundance trailer: a vehicle for fruit delivery"
 layout: default
 category: article
 tags: 

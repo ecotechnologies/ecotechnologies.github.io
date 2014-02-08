@@ -29,11 +29,11 @@ Dont cut onto plate or glass chopping boards
 
 ## Knife-sharpening tech: simple steels to the EdgePro
 
-http://www.amazon.co.uk/AnySharp-Global-Worlds-Sharpener-Classic/dp/B001DXVL6K/ref=sr_1_1?s=kitchen&ie=UTF8&qid=1391809752&sr=1-1&keywords=knife+sharpener
+[a](http://www.amazon.co.uk/AnySharp-Global-Worlds-Sharpener-Classic/dp/B001DXVL6K/ref=sr_1_1?s=kitchen&ie=UTF8&qid=1391809752&sr=1-1&keywords=knife+sharpener)
 
-http://www.amazon.co.uk/Kitchen-Devils-Lifestyle-Rollsharp-Sharpener/dp/B002UL60TM/ref=sr_1_4?s=kitchen&ie=UTF8&qid=1391809752&sr=1-4&keywords=knife+sharpener
+[b](http://www.amazon.co.uk/Kitchen-Devils-Lifestyle-Rollsharp-Sharpener/dp/B002UL60TM/ref=sr_1_4?s=kitchen&ie=UTF8&qid=1391809752&sr=1-4&keywords=knife+sharpener)
 
-http://www.amazon.co.uk/Accusharp-Knife-Sharpener-Blue-White/dp/B00004VWKQ/ref=sr_1_2?s=kitchen&ie=UTF8&qid=1391809752&sr=1-2&keywords=knife+sharpener
+[c](http://www.amazon.co.uk/Accusharp-Knife-Sharpener-Blue-White/dp/B00004VWKQ/ref=sr_1_2?s=kitchen&ie=UTF8&qid=1391809752&sr=1-2&keywords=knife+sharpener)
 
 
 

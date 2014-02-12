@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Sharpening knives - the ecotech guide"
-layout: default
+layout: post
 category: article
 tags: 
   - maintenance

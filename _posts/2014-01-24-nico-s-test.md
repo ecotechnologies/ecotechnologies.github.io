@@ -1,7 +1,7 @@
 ---
 published: true
 title: "nico's-test"
-layout: default
+layout: post
 category: article
 ---
 

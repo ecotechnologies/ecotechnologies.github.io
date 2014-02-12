@@ -1,6 +1,6 @@
 ---
 published: true
-layout: default
+layout: post
 title: Using prose
 tags: 
   - tutorial

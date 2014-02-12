@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Bicycle trailers in the developing world"
-layout: default
+layout: post
 category: video
 tags: 
   - transport

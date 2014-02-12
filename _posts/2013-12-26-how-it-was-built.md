@@ -1,6 +1,6 @@
 ---
 title: How the site was built
-layout: default
+layout: post
 categories:
   - article
 ---

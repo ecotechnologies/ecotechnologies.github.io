@@ -27,7 +27,11 @@ As indicated in the introduction, knife sharpening is not simply a matter of tec
 
 Dont cut onto plate or glass chopping boards 
 
-## Knife-sharpening tech: simple steels to the EdgePro
+## Knife-sharpening kit:
+[cheap sharpening stone from toolstation](http://www.toolstation.com/shop/Oilstone+&+Box/p35910)
+This oil stone is very multi purpose, it can be used for kitchen knives, bushcraft/gardening blades, woodworking tools and most other edge tools. It's cheap and affordable but it is made using big industrial processess probably by workers in poor conditions. If you can, get a second hand stone from a market or boot sale. Try and get a stone that is as flat as possible, an oilstone can last a lifetime but needs regular flattening to be effective as a sharpening tool. See a seperate article for a how-to on this, it can be time consuming so try and find a stone in good condition if possible. 
+
+[tormek grinder knife jig](http://www.tormek.com/en/jigs/svm140/index.php)
 
 [a](http://www.amazon.co.uk/AnySharp-Global-Worlds-Sharpener-Classic/dp/B001DXVL6K/ref=sr_1_1?s=kitchen&ie=UTF8&qid=1391809752&sr=1-1&keywords=knife+sharpener)
 

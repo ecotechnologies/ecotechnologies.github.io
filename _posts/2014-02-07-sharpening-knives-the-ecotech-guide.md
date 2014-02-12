@@ -28,9 +28,9 @@ As indicated in the introduction, knife sharpening is not simply a matter of tec
 Dont cut onto plate or glass chopping boards 
 
 ## Knife-sharpening tech: simple steels to the EdgePro
-[http://www.toolstation.com/shop/p35910]
+[cheap sharpening stone from toolstation](http://www.toolstation.com/shop/p3591)
 
-[http://www.tormek.com/en/jigs/svm140/index.php]
+[tormek grinder knife jig](http://www.tormek.com/en/jigs/svm140/index.php)
 
 [a](http://www.amazon.co.uk/AnySharp-Global-Worlds-Sharpener-Classic/dp/B001DXVL6K/ref=sr_1_1?s=kitchen&ie=UTF8&qid=1391809752&sr=1-1&keywords=knife+sharpener)
 

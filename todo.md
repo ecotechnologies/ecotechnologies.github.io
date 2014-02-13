@@ -22,6 +22,7 @@ layout: default
 - More content
 - More Contributors
 - Identify next co-owner of site
+- new repository for posts only for contributor access
 
 ## For Fun
 
